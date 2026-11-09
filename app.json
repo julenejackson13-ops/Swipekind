@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "swipekind-",
-    "slug": "snack-c69e82b8-3b45-4050-98c9-d1b8e40c096b",
+    "name": "SwipeKind",
+    "slug": "swipekind",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
